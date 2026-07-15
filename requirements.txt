@@ -1,0 +1,6 @@
+python-telegram-bot==20.6
+phonenumbers==8.13.35
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+anticaptchaofficial==1.0.46
